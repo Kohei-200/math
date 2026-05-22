@@ -1,5 +1,5 @@
 # math
-Applying AdaBoost and GradientBoost in Python.
-Doing some Practice in XGB.
-
-Further math understanding -> Boosting_note.pdf (A bit messy: copied from my paper note)
+## Boosting
+adaBoost.ipynb, gradientBoost.ipynb: Applying AdaBoost and GradientBoost in Python.
+XGB.ipynb: Doing some Practice in XGB.
+Boosting_note.pdf: Further math understanding (A bit messy: copied from my paper note)
