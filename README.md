@@ -4,4 +4,4 @@ adaBoost.ipynb, gradientBoost.ipynb: Applying AdaBoost and GradientBoost in Pyth
 
 XGB.ipynb: Doing some Practice in XGB.
 
-Boosting_note.pdf: Further math understanding (A bit messy: copied from my paper note) on [Book ByZhi-Hua Zhou](https://doi.org/10.1201/b12207)
+Boosting_note.pdf: Further math understanding (copied from my paper note) on [Book ByZhi-Hua Zhou](https://doi.org/10.1201/b12207)
