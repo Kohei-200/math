@@ -9,9 +9,14 @@ Boosting_note.pdf: Further math understanding (copied from my paper note) on [Bo
 ## LSTM
 visualization of Long Short-term memory process
 
-## ASP
-Harmonic Model
+## ASP 
+Building Audio Signal Processing Models with Numpy
+
+Harmonic Model 
 
 f_0 detection
 - YIN Algorithm with Autocorrelation
 - Two Way Mismatch with Matrix Representation
+
+[Audio Signal Processing for Music Applications: Coursera
+](https://www.coursera.org/learn/audio-signal-processing/home/module/6)
