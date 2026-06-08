@@ -10,7 +10,7 @@ Boosting_note.pdf: Further math understanding (copied from my paper note) on [Bo
 visualization of Long Short-term memory process
 
 ## ASP 
-Building Audio Signal Processing Models with Numpy
+Building Audio Signal Processing Concepts with Numpy
 
 Harmonic Model 
 
